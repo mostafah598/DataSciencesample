@@ -1,2 +1,2 @@
 # DataSciencesample
-samples for data science project
+samples for data science projects
